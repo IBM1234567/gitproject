@@ -1,6 +1,0 @@
-{
-    "empID": 78945,
-    "empName": "raj",
-    "empEmail": "raj@gmail.com",
-    "empStatus": "A"
-}
